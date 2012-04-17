@@ -1,4 +1,15 @@
+/build/
+/dist/
+/src/
+/bin/
+/lib/
+/share/
+/include/
+/.Python
+/local
+
 *.pyc
+*.pyo
 .*
 dist
 MANIFEST
